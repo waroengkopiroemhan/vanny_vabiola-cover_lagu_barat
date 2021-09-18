@@ -16,8 +16,8 @@
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : false,
-"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : true,
+"MODE_NO_ADS" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
 //     Mode ADMOB       Admob backup Unity Backup Startapp
@@ -30,21 +30,21 @@
 "PENGATURAN_IKLAN_INTER" : "TAPDAQ",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTER_COUNT" : "4",
+"INTER_COUNT" : "10",
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 
-"ADS_ON_EXIT_DIALOG" : true, // WARNING - CTR MENINGKAT
+"ADS_ON_EXIT_DIALOG" : false, // WARNING - CTR MENINGKAT
 
 "MODE_OFFLINE_MP3" : true,
 "ENABLE_STICKY_NOTIFICATION" : true,
 
 "STARTAPPID" : "208478864",
 
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
-"ADMOB_NATIV" : "ca-app-pub-3940256099942544/2247696110",
+"ADMOB_BANNER" : "ca-app-pub-1677915521657375/4657653161",
+"ADMOB_INTER" : "ca-app-pub-1677915521657375/7019899101",
+"ADMOB_NATIV" : "ca-app-pub-1677915521657375/4055017934",
 
 "HPK_ALIENDROID" : "Beasiswa kuliah luar negeri",
 "HPK_ADMOB1" : "Kesehatan",
@@ -62,7 +62,7 @@
 "UNITY_BANNER" : "Banner_Android",
 "UNITY_INTERSTITIAL" : "Interstitial_Android",
 "UNITY_GAME_ID" : "4367403",
-"UNITY_TEST_MODE" : "true",
+"UNITY_TEST_MODE" : "false",
 
 "APPLOVIN_BANNER_ID" : "3b526aa538104494",
 "APPLOVIN_INTERSTITIAL_ID" : "935472e0a25598dd",
@@ -72,11 +72,11 @@
 
 "BUTTON_START" : "MULAI",
 "BUTTON_SHARE" : "BAGIKAN KE TEMAN",
-"BUTTON_RATING" : "BERIKAN NILAI APP",
+"BUTTON_RATING" : "BERI PENILAIAN",
 
-"EXIT_POPUP_DIALOG" : "Nilai dan ulas aplikasi ini dengan memberikan 5 bintang dan komentar yang bagus. Terima kasih ya..",
-"RATE_BUTTON" : "Berikan nilai aplikasi ini",
-"LATER_BUTTON" : "Kembali ke hal depan",
+"EXIT_POPUP_DIALOG" : "Nilai dan ulas aplikasi ini dengan memberikan 5 bintang dan komentar yang bagus. Terima kasih ya ..",
+"RATE_BUTTON" : " Nilai & ulas",
+"LATER_BUTTON" : "Halaman utama",
 "ENABLE_SHARE_BUTTON" : false,
 "SHARE_TXT" : "Aplikasi ini sangat bagus. Coba unduh dan semoga anda suka",
 "MORE_BUTTON" : "Lihat aplikasi lain",
