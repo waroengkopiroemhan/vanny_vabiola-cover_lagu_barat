@@ -79,7 +79,7 @@
 "LATER_BUTTON" : "Nanti",
 "ENABLE_SHARE_BUTTON" : false,
 "SHARE_TXT" : "Aplikasi ini sangat bagus. Coba unduh dan semoga anda suka",
-"MORE_BUTTON" : "Bagikan app ini via WA",
+"MORE_BUTTON" : "Coba lihat aplikasi lain",
 // Jika share button TRUE maka tombol MORE berubah SHARE
 // isi url more apps jika ENABLE_SHARE_BUTTON  is false
 "URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.cekbansos.caradaftarkartuprakerja"
