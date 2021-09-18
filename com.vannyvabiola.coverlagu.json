@@ -5,10 +5,10 @@
 // pastikan mode offline mp3 true jika merubah ke mode mp3
 // https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html
 
-"HOMEURL" : "",
+"HOMEURL" : "file:///android_asset/music/playlist.html",
 
 // testing server json yang dipakai
-"JSON_POPUP_WAIT" : "Sedang mengisi dari server . . .",
+"JSON_POPUP_WAIT" : "Sedang mengisi dari server ...",
 
 // Redirect ke apps lain 
 "REDIRECT_TRAFFIC" : false,
@@ -28,12 +28,12 @@
 //     Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
 "PENGATURAN_IKLAN_BANNER" : "TAPDAQ",
 "PENGATURAN_IKLAN_INTER" : "TAPDAQ",
-"PENGATURAN_IKLAN_NATIVE" : "TAPDAQ",
+"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
 "INTER_COUNT" : "4",
 
 "ENABLE_STRAP" : true,
-"ENABLE_STRAP_SPLAHSCREEN" : true,
+"ENABLE_STRAP_SPLAHSCREEN" : false,
 
 "ADS_ON_EXIT_DIALOG" : true, // WARNING - CTR MENINGKAT
 
@@ -64,22 +64,22 @@
 "UNITY_GAME_ID" : "4367403",
 "UNITY_TEST_MODE" : "true",
 
-"APPLOVIN_BANNER_ID" : "71f5faf4df08917c",
-"APPLOVIN_INTERSTITIAL_ID" : "4711e1718612d7dc",
+"APPLOVIN_BANNER_ID" : "3b526aa538104494",
+"APPLOVIN_INTERSTITIAL_ID" : "935472e0a25598dd",
 
 "TAPDAQ_APP_ID" : "614599c086c31c4e07c10cf5",
 "TAPDAQ_CLIENT_KEY" : "637b0fa1-a834-4d01-aa56-5c151b4e4876",
 
 "BUTTON_START" : "MULAI",
 "BUTTON_SHARE" : "BAGIKAN KE TEMAN",
-"BUTTON_RATING" : "NILAI APP KAMI",
+"BUTTON_RATING" : "BERIKAN NILAI APP",
 
 "EXIT_POPUP_DIALOG" : "Nilai dan ulas aplikasi ini dengan memberikan 5 bintang dan komentar yang bagus. Terima kasih ya..",
-"RATE_BUTTON" : "Berikan penilaian 5 bintang",
-"LATER_BUTTON" : "Nanti",
+"RATE_BUTTON" : "Berikan nilai aplikasi ini",
+"LATER_BUTTON" : "Kembali ke hal depan",
 "ENABLE_SHARE_BUTTON" : false,
 "SHARE_TXT" : "Aplikasi ini sangat bagus. Coba unduh dan semoga anda suka",
-"MORE_BUTTON" : "Coba lihat aplikasi lain",
+"MORE_BUTTON" : "Lihat aplikasi lain",
 // Jika share button TRUE maka tombol MORE berubah SHARE
 // isi url more apps jika ENABLE_SHARE_BUTTON  is false
 "URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.cekbansos.caradaftarkartuprakerja"
