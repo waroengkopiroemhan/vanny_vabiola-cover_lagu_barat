@@ -78,7 +78,7 @@
 "RATE_BUTTON" : " Nilai & ulas",
 "LATER_BUTTON" : "Halaman utama",
 "ENABLE_SHARE_BUTTON" : false,
-"SHARE_TXT" : "Aplikasi ini sangat bagus. Coba unduh dan semoga anda suka",
+"SHARE_TXT" : "Aplikasi ini sangat bagus.Bagikan dengan teman anda.",
 "MORE_BUTTON" : "Lihat aplikasi lain",
 // Jika share button TRUE maka tombol MORE berubah SHARE
 // isi url more apps jika ENABLE_SHARE_BUTTON  is false
