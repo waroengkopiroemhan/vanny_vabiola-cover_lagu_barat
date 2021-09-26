@@ -17,7 +17,7 @@
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
 "MODE_NO_ADS" : false,
-"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : true,
 
 //     mode pengaturan iklan
 //     Mode ADMOB       Admob backup Unity Backup Startapp
@@ -44,7 +44,7 @@
 
 "ADMOB_BANNER" : "ca-app-pub-1677915521657375/465765316x",
 "ADMOB_INTER" : "ca-app-pub-1677915521657375/701989910x",
-"ADMOB_NATIV" : "ca-app-pub-1677915521657375/4055017934",
+"ADMOB_NATIV" : "ca-app-pub-1677915521657375/4055017934x",
 
 "HPK_ALIENDROID" : "Beasiswa kuliah luar negeri",
 "HPK_ADMOB1" : "Kesehatan",
@@ -62,7 +62,7 @@
 "UNITY_BANNER" : "Banner_Android",
 "UNITY_INTERSTITIAL" : "Interstitial_Android",
 "UNITY_GAME_ID" : "4367403",
-"UNITY_TEST_MODE" : "false",
+"UNITY_TEST_MODE" : "true",
 
 "APPLOVIN_BANNER_ID" : "3b526aa53810449x",
 "APPLOVIN_INTERSTITIAL_ID" : "935472e0a25598dx",
