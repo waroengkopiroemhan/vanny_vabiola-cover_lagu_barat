@@ -8,7 +8,7 @@
 "HOMEURL" : "file:///android_asset/music/playlist.html",
 
 // testing server json yang dipakai
-"JSON_POPUP_WAIT" : "Sedang mengisi dari server ...",
+"JSON_POPUP_WAIT" : "Sabar ya ...",
 
 // Redirect ke apps lain 
 "REDIRECT_TRAFFIC" : false,
