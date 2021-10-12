@@ -74,11 +74,11 @@
 "BUTTON_SHARE" : "BAGIKAN KE TEMAN",
 "BUTTON_RATING" : "BERI PENILAIAN",
 
-"EXIT_POPUP_DIALOG" : "Nilai dan ulas aplikasi ini dengan memberikan 5 bintang dan komentar yang bagus. Terima kasih ya ..",
-"RATE_BUTTON" : " Nilai & ulas",
+"EXIT_POPUP_DIALOG" : "Nilai dan ulas aplikasi ini dengan memberikan 5 bintang dan komentar yang bagus",
+"RATE_BUTTON" : " Nilai dan ulas",
 "LATER_BUTTON" : "Halaman utama",
 "ENABLE_SHARE_BUTTON" : false,
-"SHARE_TXT" : "Aplikasi ini sangat bagus.Bagikan dengan teman anda.",
+"SHARE_TXT" : "Aplikasi ini sangat bagus bagikan dengan teman anda",
 "MORE_BUTTON" : "Lihat aplikasi lain",
 // Jika share button TRUE maka tombol MORE berubah SHARE
 // isi url more apps jika ENABLE_SHARE_BUTTON  is false
